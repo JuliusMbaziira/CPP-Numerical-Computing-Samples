@@ -1,0 +1,8 @@
+serial,    sum: 0, fsum: 3.3852e+08, clock: 28206800040
+atomic,    sum: 0, fsum: 3.3852e+08, clock: 28134595666
+shared,    sum: 0, fsum: 3.3852e+08, clock: 27959236073
+reduction, sum: 0, fsum: 3.3852e+08, clock: 27651905827
+serial,    sum: 0, fsum: 3.37415e+08, clock: 28399665564
+atomic,    sum: 0, fsum: 3.37415e+08, clock: 11415340534
+shared,    sum: 75210, fsum: 3.37344e+08, clock: 8055936269
+reduction, sum: 0, fsum: 3.37415e+08, clock: 8316381087
