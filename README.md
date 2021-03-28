@@ -1,6 +1,6 @@
 # CPP-Numerical-Computing-Samples
 
-These are samples of Numerical Computing I've implemented in C++, including implementations for Benchmarking CUDA and OpenMP. They include:  
+These are some of the Numerical and Parallel Computing samples I've implemented in C++, including Benchmarking/Performance evaluation codes for CUDA and OpenMP. They include:  
 
 1. An implementation for the Runge Kutta Fourth Order method (ODE Solver). 
 
